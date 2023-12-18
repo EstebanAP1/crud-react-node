@@ -1,0 +1,31 @@
+{
+  "name": "crud-react-node",
+  "version": "1.0.0",
+  "description": "Mini project using React & Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EstebanAP1/crud-react-node.git"
+  },
+  "keywords": [
+    "React",
+    "Node"
+  ],
+  "author": "Esteban Alejandro Padilla Padilla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EstebanAP1/crud-react-node/issues"
+  },
+  "homepage": "https://github.com/EstebanAP1/crud-react-node#readme",
+  "devDependencies": {
+    "eslint": "8.56.0",
+    "eslint-config-standard": "17.1.0",
+    "eslint-plugin-import": "2.29.1",
+    "eslint-plugin-n": "16.4.0",
+    "eslint-plugin-promise": "6.1.1",
+    "eslint-plugin-react": "7.33.2"
+  }
+}

@@ -1,0 +1,7 @@
+### Home page
+
+GET http://localhost:3000/prueba/1
+
+###
+
+DELETE http://localhost:3000/users/1
